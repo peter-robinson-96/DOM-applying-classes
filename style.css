@@ -11,7 +11,7 @@ body {
 div {
   width: 100px;
   height: 100px;
-  border: 1px #ccc dotted;
+  border: 3px yellowgreen dashed;
   margin: 10px;
   border-radius: 50%;
   background-color: #eee;
@@ -36,6 +36,6 @@ div {
 .visible {
   display: block;
   border: 3px black dashed;
-  border-radius: 0;
+  border-radius: 50%;
   background-color: white;
 }
